@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>Hello, I'm Harshal!</h1>;
+  return <p>Hi, I&apos;m Harshal!</p>;
 }
